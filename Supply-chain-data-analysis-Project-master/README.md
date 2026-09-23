@@ -227,11 +227,6 @@ jupyter notebook notebooks/Supply_chain.ipynb
 - <a href="https://github.com/nazmul23423/Supply-chain-data-analysis-Project/blob/master/Supply%20chain%20Analysis%20visualizations.png">Dashboard image</a>
 
 
-## 🤝 Connect with Me
-
-- GitHub: [ @nazmul23423](https://github.com/your-username)
-- LinkedIn: [ md-nazmul-islam-8b5770388](https://linkedin.com/in/md-nazmul-islam-8b5770388)
-
 
 ---
 
